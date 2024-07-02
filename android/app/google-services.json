@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727634210892",
+    "project_id": "justforfun-4804b",
+    "storage_bucket": "justforfun-4804b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727634210892:android:591aa7fb537d5bb2ee44e9",
+        "android_client_info": {
+          "package_name": "com.example.just_for_fun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEYi9w-iHD33APETeywn1MSNd4EXtl3Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
